@@ -1,10 +1,17 @@
-# Zion AI PR Review Swarm
+# Zion AI PR Review Swarm — Zion App Network
 
-Multi-agent parallel code review (security, perf, style).
+Zion AI PR Review Swarm — multi-agent parallel code review (security, performance, style). Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [agents](https://github.com/Zion-support/agents)
-- Related: [zion-ai-code-reviewer](https://github.com/Zion-support/zion-ai-code-reviewer) · [ai-agent-swarm](https://github.com/Zion-support/ai-agent-swarm) · [ai-agent-swarm-v2](https://github.com/Zion-support/ai-agent-swarm-v2) · [zion-ai-qa-tester](https://github.com/Zion-support/zion-ai-qa-tester)
+- 🔗 Live app: [https://ziontechgroup.com/zion-ai-pr-review-swarm](https://ziontechgroup.com/zion-ai-pr-review-swarm)
+- 🏠 Category: [Dev & Ops Tools](https://github.com/Zion-support/zion-network/blob/main/network/dev-ops-tools.md)
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+## Related apps in the network
+
+- [Zion AI Code Reviewer](https://github.com/Zion-support/zion-ai-code-reviewer) — automated PR review and security linting
+- [Zion AI Code Assistant](https://github.com/Zion-support/zion-ai-code-assistant) — AI pair-programming
+- [Zion AI QA Tester](https://github.com/Zion-support/zion-ai-qa-tester) — autonomous test generation
+- [Zion AI Dependency Lifeguard](https://github.com/Zion-support/zion-ai-dependency-lifeguard) — auto-upgrade PRs
+- [Zion AI Accessibility Fixer](https://github.com/Zion-support/zion-ai-accessibility-fixer) — auto-remediates WCAG violations with PRs
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
